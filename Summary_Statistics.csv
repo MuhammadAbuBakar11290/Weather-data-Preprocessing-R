@@ -1,0 +1,67 @@
+Var1,Var2,Freq
+,     TSK,Min.   :271.4  
+,     TSK,1st Qu.:284.2  
+,     TSK,Median :284.9  
+,     TSK,Mean   :285.7  
+,     TSK,3rd Qu.:286.1  
+,     TSK,Max.   :310.1  
+,     PSFC,Min.   : 98836  
+,     PSFC,1st Qu.:100760  
+,     PSFC,Median :101355  
+,     PSFC,Mean   :101347  
+,     PSFC,3rd Qu.:102048  
+,     PSFC,Max.   :103144  
+,    X.U10.,Min.   :-6.600  
+,    X.U10.,1st Qu.:-0.400  
+,    X.U10.,Median : 2.000  
+,    X.U10.,Mean   : 2.211  
+,    X.U10.,3rd Qu.: 4.700  
+,    X.U10.,Max.   :12.100  
+,    X.V10.,Min.   :-12.3000  
+,    X.V10.,1st Qu.: -3.1000  
+,    X.V10.,Median : -0.8000  
+,    X.V10.,Mean   : -0.1675  
+,    X.V10.,3rd Qu.:  2.2000  
+,    X.V10.,Max.   : 16.7000  
+,    X.Q2.,Min.   :0.00333  
+,    X.Q2.,1st Qu.:0.00601  
+,    X.Q2.,Median :0.00712  
+,    X.Q2.,Mean   :0.00710  
+,    X.Q2.,3rd Qu.:0.00814  
+,    X.Q2.,Max.   :0.01348  
+,    RAINC,Min.   : 0.00000  
+,    RAINC,1st Qu.: 0.00000  
+,    RAINC,Median : 0.00000  
+,    RAINC,Mean   : 0.08284  
+,    RAINC,3rd Qu.: 0.00000  
+,    RAINC,Max.   :20.60000  
+,    RAINNC,Min.   : 0.0000  
+,    RAINNC,1st Qu.: 0.0000  
+,    RAINNC,Median : 0.0000  
+,    RAINNC,Mean   : 0.2346  
+,    RAINNC,3rd Qu.: 0.1000  
+,    RAINNC,Max.   :15.1000  
+,     SNOW,Min.   :0.000e+00  
+,     SNOW,1st Qu.:0.000e+00  
+,     SNOW,Median :0.000e+00  
+,     SNOW,Mean   :3.778e-05  
+,     SNOW,3rd Qu.:0.000e+00  
+,     SNOW,Max.   :1.000e-01  
+,     TSLB,Min.   :273.2  
+,     TSLB,1st Qu.:273.2  
+,     TSLB,Median :273.2  
+,     TSLB,Mean   :277.1  
+,     TSLB,3rd Qu.:281.8  
+,     TSLB,Max.   :305.7  
+,    SMOIS,Min.   :0.1499  
+,    SMOIS,1st Qu.:0.2861  
+,    SMOIS,Median :1.0000  
+,    SMOIS,Mean   :0.7650  
+,    SMOIS,3rd Qu.:1.0000  
+,    SMOIS,Max.   :1.0000  
+,  Windspeed,Min.   : 0.000  
+,  Windspeed,1st Qu.: 2.970  
+,  Windspeed,Median : 4.610  
+,  Windspeed,Mean   : 5.363  
+,  Windspeed,3rd Qu.: 7.380  
+,  Windspeed,Max.   :16.820  
